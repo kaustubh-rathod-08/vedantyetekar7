@@ -16,9 +16,9 @@
 
 ### ***Know me 😄***
 
-- 🔭 I’m currently working on [`Ecommerce Clothing Store`][https://crwnclthng.netlify.app/]
+- 🔭 I’m currently working on [`Ecommerce Clothing Store`](https://crwnclthng.netlify.app/)
 - 🎯 Focused on React.Js these days.
-- 👨‍💻 All of my projects are available at [https://github.com/vedantyetekar7/](https://github.com/vedantyetekar7/)
+- 👨‍💻 Can see my past work here.[https://github.com/vedantyetekar7/](https://github.com/vedantyetekar7/)
 - 💬 Ask me about **Python,JavaScript,Node.Js**
 - 📫 How to reach me **harikanani2003@gmail.com**
 
