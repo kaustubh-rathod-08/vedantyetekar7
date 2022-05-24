@@ -10,19 +10,19 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### ***Know me 😄***
+#### ***Know me 😄***
 
-- 🔭 I’m currently working on [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)
-- 🎯 Focused on React.Js these days.
-- 👨‍💻 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)
-- 💬 Interested in ***JavaScript, React.Js, C++, DSA.***
-- 📫 You can shoot me at ***ursvedantyetekar@gmail.com***
+- *🔭 I’m currently working on [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)*
+- *🎯 Focused on `React.Js` these days.*
+- *👨‍💻 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)*
+- *💬 Interested in `JavaScript, React.Js, C++, DSA`*
+- *📫 You can shoot me at ***ursvedantyetekar@gmail.com****
 
 
 </br>
 
 
-### ***⚙️ My Tech Stack***
+#### ***⚙️ My Tech Stack***
 <p align="left">
        <a href="https://devdocs.io/cpp/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/cplusplus/cplusplus-original.svg" alt="c++" width="50" height="50"/></code> 
@@ -65,7 +65,7 @@
 </br>
 
 
-### ***📬 Lets connect***
+#### ***📬 Lets connect***
 <p align="left"> 
 <a href="https://www.linkedin.com/in/vedant-yetekar-497949218"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=vedantyetekar7.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fvedantyetekar7.github.io" alt="vedantyetekar7.github.io" /></a>&nbsp
@@ -78,7 +78,7 @@
 </br>
 
 
-### ***📉 Stats***
+#### ***📉 Stats***
            
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=tokyonight" />
