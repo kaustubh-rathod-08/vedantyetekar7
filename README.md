@@ -16,7 +16,7 @@
 - *🎯 Focused on `React.Js` these days.*
 - *📜 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)*
 - *💬 Interested in `JavaScript, React.Js, C++, DSA`.*
-- *🌏 Visit my [`portfolio here.`](https://vedantyetekar.netlify.app/)*
+- *🌏 Visit my [`Dev-folio here.`](https://vedantyetekar.netlify.app/)*
 - *📫 You can shoot me at ***ursvedantyetekar@gmail.com***.*
 
 
@@ -62,6 +62,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
     </a> 
 </p>
+
 
 </br>
 
