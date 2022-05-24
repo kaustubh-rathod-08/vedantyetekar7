@@ -12,10 +12,11 @@
 
 #### ***Know me 😄***
 
-- *🧑🏻‍💻 I’m currently working on [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)*
+- *🧑🏻‍💻 I’m currently working on an [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)*
 - *🎯 Focused on `React.Js` these days.*
 - *📜 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)*
 - *💬 Interested in `JavaScript, React.Js, C++, DSA`.*
+- *🌏 Visit my [`portfolio here.`](https://vedantyetekar.netlify.app/)*
 - *📫 You can shoot me at ***ursvedantyetekar@gmail.com***.*
 
 
