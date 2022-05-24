@@ -5,14 +5,8 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
-### ***📬 Lets connect***
-<p align="left"> 
-<a href="https://www.linkedin.com/in/vedant-yetekar-497949218"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=vedantyetekar7.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fvedantyetekar7.github.io" alt="vedantyetekar7.github.io" /></a>&nbsp
-   <a href="mailto:ursvedantyetekar@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ursvedantyetekar@gmail.com" />
-  </a>
-</p>
+</br>
+
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -23,6 +17,10 @@
 - 👨‍💻 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)
 - 💬 Interested in ***JavaScript, React.Js, C++, DSA.***
 - 📫 You can shoot me at ***ursvedantyetekar@gmail.com***
+
+
+</br>
+
 
 ### ***⚙️ My Tech Stack***
 <p align="left">
@@ -63,6 +61,22 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
     </a> 
 </p>
+
+</br>
+
+
+### ***📬 Lets connect***
+<p align="left"> 
+<a href="https://www.linkedin.com/in/vedant-yetekar-497949218"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=vedantyetekar7.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fvedantyetekar7.github.io" alt="vedantyetekar7.github.io" /></a>&nbsp
+   <a href="mailto:ursvedantyetekar@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ursvedantyetekar@gmail.com" />
+  </a>
+</p>
+
+
+</br>
+
 
 ### ***📉 Stats***
            
