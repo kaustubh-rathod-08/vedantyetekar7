@@ -16,11 +16,11 @@
 
 ### ***Know me 😄***
 
-- 🔭 I’m currently working on [`Ecommerce Clothing Store`](https://crwnclthng.netlify.app/)
+- 🔭 I’m currently working on [`Ecommerce Clothing Store.`](https://crwnclthng.netlify.app/)
 - 🎯 Focused on React.Js these days.
-- 👨‍💻 Can see my past work here.[https://github.com/vedantyetekar7/](https://github.com/vedantyetekar7/)
-- 💬 Ask me about **Python,JavaScript,Node.Js**
-- 📫 How to reach me **harikanani2003@gmail.com**
+- 👨‍💻 Take a look on my past projects [`here.`](https://github.com/vedantyetekar7/)
+- 💬 Interested in ***JavaScript, React.Js, C++, DSA.***
+- 📫 You can shoot me at ***ursvedantyetekar@gmail.com***
 
 ### ***⚙️ My Tech Stack***
 <p align="left">
