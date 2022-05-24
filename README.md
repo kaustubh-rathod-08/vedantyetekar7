@@ -83,11 +83,6 @@
 #### ***📉 Stats***
            
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=nord" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&theme=nord" />
 </div>
-
-<br/>  
-
-![vedant's github activity graph](https://activity-graph.herokuapp.com/graph?username=vedantyetekar7&theme=nord") 
-
