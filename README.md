@@ -5,8 +5,8 @@
 
 ### ***📬 Lets connect***
 <p align="left"> 
-<a href="https://www.linkedin.com/in/vedant-yetekar-497949218"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp
+<a href="https://www.linkedin.com/in/vedant-yetekar-497949218"><img src="https://img.shields.io/badge/-Vedant%20Yetekar-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://vedantyetekar.netlify.app/" target="_blank"><img src="https://img.shields.io/website?label=vedantyetekar7.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fvedantyetekar7.github.io" alt="vedantyetekar7.github.io" /></a>&nbsp
    <a href="mailto:ursvedantyetekar@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ursvedantyetekar@gmail.com" />
   </a>
@@ -16,19 +16,11 @@
 
 ### ***I'm an aspiring frontend developer***
 
-- 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
-
+- 🔭 I’m currently working on `Ecommerce Clothing Store`(https://crwnclthng.netlify.app/)
 - 🌱 I’m currently learning **Everything 🤣**
-
-- 👨‍💻 All of my projects are available at [https://github.com/harikanani/](https://github.com/harikanani/)
-
+- 👨‍💻 All of my projects are available at [https://github.com/vedantyetekar7/](https://github.com/vedantyetekar7/)
 - 💬 Ask me about **Python,JavaScript,Node.Js**
-
 - 📫 How to reach me **harikanani2003@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/harikrushn-kanani/](https://www.linkedin.com/in/harikrushn-kanani/)
-
-- ⚡ Fun fact **I love to code**
 
 ## 🌐 Languages and Tools :
 <p align="left">
