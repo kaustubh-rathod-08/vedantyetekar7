@@ -14,9 +14,9 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### ***I'm An Aspiring Frontend Developer***
+### ***Know me 😄***
 
-- 🔭 I’m currently working on `Ecommerce Clothing Store`(https://crwnclthng.netlify.app/)
+- 🔭 I’m currently working on [`Ecommerce Clothing Store`](https://crwnclthng.netlify.app/)
 - 🌱 I’m currently learning **Everything 🤣**
 - 👨‍💻 All of my projects are available at [https://github.com/vedantyetekar7/](https://github.com/vedantyetekar7/)
 - 💬 Ask me about **Python,JavaScript,Node.Js**
