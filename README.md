@@ -87,5 +87,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&theme=monokai" />
 </div>
 
-<a href="https://github.com/vedantyetekar7" target="_blank" rel="noopener noreferrer"><img
-				src="https://img.shields.io/github/stars/vedantyetekar7"></a>
+<a href="https://github.com/vedantyetekar7" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/stars/vedantyetekar7"></a>
