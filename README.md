@@ -84,5 +84,5 @@
            
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=monokai" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&theme=dark" width="48%" >
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=vedantyetekar7&show_icons=true&theme=monokai" />
 </div>
