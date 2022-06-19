@@ -83,6 +83,6 @@
 #### ***📉 Stats***
            
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=monokai" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&show_icons=true&theme=monokai" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vedantyetekar7&show_icons=true&theme=light" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vedantyetekar7&show_icons=true&theme=light" />
 </div>
